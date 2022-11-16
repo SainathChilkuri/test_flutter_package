@@ -13,7 +13,7 @@ class _DemoWidgetState extends State<DemoWidget> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text("Demo Wsssidssssget Package"),
+      child: Text("Demo Wsssidssssgekkt Package"),
     );
   }
 }
